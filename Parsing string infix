@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+int prec(char c) {
+    if(c == '*' || c == '/' || c == '%') 
+  return 2; 
+  else if(c == '+' || c == '-') 
+  return 1; 
+    else
+ return -2;
+}
+ 
+
+void infixToPostfix(string s) {
+ }
+ 
+
+int main() {
+    string a ;
+    cin >> a;    
+    infixToPostfix(a);
+   // cout << result << "  "<< endl;
+    
+    return 0;
+}   

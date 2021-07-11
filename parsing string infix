@@ -37,7 +37,7 @@ void Separating(string _input){
             data += sprtd[j];
 
 
-            if(i > 0){
+            if(j > 0){
                 chr[0] = sprtd[j - 1];
 
 

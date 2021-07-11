@@ -1,6 +1,6 @@
 // CONVERT INFIX TO POSTFIX
 
-//------------------------------Konversi Infix to Postfix 7------------------------------//
+//Konversi Infix to Postfix 7
 
 #include <iostream>
 #include <cstring>
